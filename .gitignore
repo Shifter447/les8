@@ -1,0 +1,4 @@
+*.pb
+priveInformatie/
+*.meta
+images/*.psd
